@@ -1,8 +1,1 @@
-{
-  "name": "Beat Any Investment Wireframes",
-  "id": "beat-any-investment-wireframes",
-  "api": "1.0.0",
-  "main": "code.js",
-  "capabilities": [],
-  "enableProposedApi": false
-}
+{"name":"Beat Any Investment Wireframes","id":"beat-investment-wireframes","api":"1.0.0","main":"code.js","editorType":["figma"]}
